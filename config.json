@@ -4,9 +4,9 @@
     "symbol": "NB",
     "sellerFeeBasisPoints": 500,
     "gatekeeper": null,
-    "solTreasuryAccount": "EpfLgwGURYazgDBCmMBxmnWVox97Cj1fwiq1A9YrD7fV",
-    "splTokenAccount": null,
-    "splToken": null,
+    "solTreasuryAccount": null,
+    "splTokenAccount": "GUNMBAyNGSthkjs7GVjpvV9rHgQzBU69hNiQmGig9NAB",
+    "splToken": "AqrY3Vs5DjdVCNYrDMfkpP6JL4C6kbKoSLvBhc2gq7DT",
     "goLiveDate": "2022-07-24T00:00:00Z",
     "endSettings": null,
     "whitelistMintSettings": null,
@@ -17,7 +17,7 @@
     "isMutable": true,
     "creators": [
     {
-      "address": "EpfLgwGURYazgDBCmMBxmnWVox97Cj1fwiq1A9YrD7fV",
+      "address": "GUNMBAyNGSthkjs7GVjpvV9rHgQzBU69hNiQmGig9NAB",
       "share": 100
     }
   ]
